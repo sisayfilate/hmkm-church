@@ -1,0 +1,1 @@
+print('Hello HMKM Students! We are exited :) to have you!')
